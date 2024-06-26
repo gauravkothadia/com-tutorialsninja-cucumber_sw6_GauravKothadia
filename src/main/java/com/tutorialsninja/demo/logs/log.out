@@ -1,0 +1,346 @@
+2024-06-24 21:06:192 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (8e5fe7aca5b470dc76efb9fbcd66596d)] -> name: username]  data: Admin
+2024-06-24 21:06:311 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (8e5fe7aca5b470dc76efb9fbcd66596d)] -> name: password]  data: admin123
+2024-06-24 21:06:137 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (8e5fe7aca5b470dc76efb9fbcd66596d)] -> xpath: //button[normalize-space()='Login']]
+2024-06-24 21:06:492 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (8e5fe7aca5b470dc76efb9fbcd66596d)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-24 21:06:905 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (8e5fe7aca5b470dc76efb9fbcd66596d)] -> xpath: //button[normalize-space()='Add']]
+2024-06-24 21:06:936 INFO  AddUserPage :67 - Getting system users text displayed Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='oxd-table-filter-header-title']//h5'
+2024-06-24 21:06:983 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> name: username]  data: Admin
+2024-06-24 21:06:83 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> name: password]  data: admin123
+2024-06-24 21:06:948 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //button[normalize-space()='Login']]
+2024-06-24 21:06:348 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-24 21:06:746 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //button[normalize-space()='Add']]
+2024-06-24 21:06:981 INFO  AddUserPage :55 - Getting Add User text [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //div[@class='orangehrm-card-container']/h6]
+2024-06-24 21:06:198 INFO  AddUserPage :62 - Selecting User roles [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //label[normalize-space()='User Role']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Admin
+2024-06-24 21:06:379 INFO  AddUserPage :68 - Entering the Employee Name [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //label[normalize-space()='Employee Name']/parent::div/following-sibling::div//input] as Ananya Dash
+2024-06-24 21:06:511 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as userNamexyz1
+2024-06-24 21:06:685 INFO  AddUserPage :79 - Selecting Status [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //label[normalize-space()='Status']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Disable
+2024-06-24 21:06:810 INFO  AddUserPage :84 - Entering password [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //div[@class='oxd-grid-item oxd-grid-item--gutters user-password-cell']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@type='password']]
+2024-06-24 21:06:930 INFO  AddUserPage :89 - Entering password confirmation [[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //div[@class='oxd-grid-item oxd-grid-item--gutters']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@type='password']]
+2024-06-24 21:06:69 INFO  AddUserPage :93 - Clicking on Save button[[ChromeDriver: chrome on windows (ee97ce9b41c41b7dc43584d52b787e54)] -> xpath: //button[normalize-space()='Save']]
+2024-06-24 21:06:149 INFO  AddUserPage :97 - Getting success message Proxy element for: DefaultElementLocator 'By.xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']'
+2024-06-24 21:06:794 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> name: username]  data: Admin
+2024-06-24 21:06:914 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> name: password]  data: admin123
+2024-06-24 21:06:772 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //button[normalize-space()='Login']]
+2024-06-24 21:06:566 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-24 21:06:971 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //button[normalize-space()='Add']]
+2024-06-24 21:06:206 INFO  AddUserPage :55 - Getting Add User text [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //div[@class='orangehrm-card-container']/h6]
+2024-06-24 21:06:405 INFO  AddUserPage :62 - Selecting User roles [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //label[normalize-space()='User Role']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Admin
+2024-06-24 21:06:621 INFO  AddUserPage :68 - Entering the Employee Name [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //label[normalize-space()='Employee Name']/parent::div/following-sibling::div//input] as Ranga  Akunuri
+2024-06-24 21:06:797 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as userNamexyz1
+2024-06-24 21:06:969 INFO  AddUserPage :79 - Selecting Status [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //label[normalize-space()='Status']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Disable
+2024-06-24 21:06:105 INFO  AddUserPage :84 - Entering password [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //div[@class='oxd-grid-item oxd-grid-item--gutters user-password-cell']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@type='password']]
+2024-06-24 21:06:250 INFO  AddUserPage :89 - Entering password confirmation [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //div[@class='oxd-grid-item oxd-grid-item--gutters']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@type='password']]
+2024-06-24 21:06:308 INFO  AddUserPage :93 - Clicking on Save button[[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //button[normalize-space()='Save']]
+2024-06-24 21:06:587 INFO  AddUserPage :97 - Getting success message [[ChromeDriver: chrome on windows (f01711a93018392a069d555f11453ab0)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']]
+2024-06-24 22:06:74 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (1a195506d1a013cbf5fdcb694e12de76)] -> name: username]  data: Admin
+2024-06-24 22:06:204 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (1a195506d1a013cbf5fdcb694e12de76)] -> name: password]  data: admin123
+2024-06-24 22:06:99 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (1a195506d1a013cbf5fdcb694e12de76)] -> xpath: //button[normalize-space()='Login']]
+2024-06-24 22:06:578 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (1a195506d1a013cbf5fdcb694e12de76)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-24 22:06:787 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (1a195506d1a013cbf5fdcb694e12de76)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as userNamexyz1
+2024-06-24 22:06:21 INFO  AddUserPage :62 - Selecting User roles [[ChromeDriver: chrome on windows (1a195506d1a013cbf5fdcb694e12de76)] -> xpath: //label[normalize-space()='User Role']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Admin
+2024-06-24 22:06:214 INFO  AddUserPage :79 - Selecting Status [[ChromeDriver: chrome on windows (1a195506d1a013cbf5fdcb694e12de76)] -> xpath: //label[normalize-space()='Status']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Disable
+2024-06-24 22:06:282 INFO  AddUserPage :95 - Clicking on Search button [[ChromeDriver: chrome on windows (1a195506d1a013cbf5fdcb694e12de76)] -> xpath: //button[normalize-space()='Search']]
+2024-06-24 22:06:307 INFO  AddUserPage :98 - Getting username from result list.Proxy element for: DefaultElementLocator 'By.xpath: //div[@role='columnheader'or normalize-space()='Username'][2]/ancestor::div[@role='rowgroup']/following-sibling::div[@class='oxd-table-body']//div[@class='oxd-table-cell oxd-padding-cell'][2]'
+2024-06-24 22:06:330 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> name: username]  data: Admin
+2024-06-24 22:06:429 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> name: password]  data: admin123
+2024-06-24 22:06:320 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> xpath: //button[normalize-space()='Login']]
+2024-06-24 22:06:162 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-24 22:06:329 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as userNamexyz1
+2024-06-24 22:06:509 INFO  AddUserPage :62 - Selecting User roles [[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> xpath: //label[normalize-space()='User Role']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Admin
+2024-06-24 22:06:683 INFO  AddUserPage :79 - Selecting Status [[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> xpath: //label[normalize-space()='Status']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Disable
+2024-06-24 22:06:750 INFO  AddUserPage :95 - Clicking on Search button [[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> xpath: //button[normalize-space()='Search']]
+2024-06-24 22:06:969 INFO  AddUserPage :98 - Getting username from result list.[[ChromeDriver: chrome on windows (0c30c6e2d1410ff08b7ac1110ac31fdf)] -> xpath: //div[@role='columnheader'or normalize-space()='Username'][2]/ancestor::div[@role='rowgroup']/following-sibling::div[@class='oxd-table-body']//div[@class='oxd-table-cell oxd-padding-cell'][2]]
+2024-06-25 19:06:782 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (a74977d5f14a12885a6ca99b81b1146d)] -> name: username]  data: Admin
+2024-06-25 19:06:867 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (a74977d5f14a12885a6ca99b81b1146d)] -> name: password]  data: admin123
+2024-06-25 19:06:695 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (a74977d5f14a12885a6ca99b81b1146d)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:760 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (a74977d5f14a12885a6ca99b81b1146d)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:703 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (1b8b5f2b4b2ffcc5418547a587dcf2d6)] -> name: username]  data: Admin
+2024-06-25 19:06:796 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (1b8b5f2b4b2ffcc5418547a587dcf2d6)] -> name: password]  data: admin123
+2024-06-25 19:06:591 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (1b8b5f2b4b2ffcc5418547a587dcf2d6)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:471 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (1b8b5f2b4b2ffcc5418547a587dcf2d6)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:858 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (6cbd9e32d74d05ac3aa1d00055098594)] -> name: username]  data: Admin
+2024-06-25 19:06:953 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (6cbd9e32d74d05ac3aa1d00055098594)] -> name: password]  data: admin123
+2024-06-25 19:06:06 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (6cbd9e32d74d05ac3aa1d00055098594)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:757 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (49ff4f63e88502558e34adf4865565fe)] -> name: username]  data: Admin
+2024-06-25 19:06:845 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (49ff4f63e88502558e34adf4865565fe)] -> name: password]  data: admin123
+2024-06-25 19:06:690 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (49ff4f63e88502558e34adf4865565fe)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:808 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (49ff4f63e88502558e34adf4865565fe)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:773 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (f3057f862ba8139cd1049bb2747189fa)] -> name: username]  data: Admin
+2024-06-25 19:06:874 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (f3057f862ba8139cd1049bb2747189fa)] -> name: password]  data: admin123
+2024-06-25 19:06:711 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (f3057f862ba8139cd1049bb2747189fa)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:952 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (f3057f862ba8139cd1049bb2747189fa)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:761 INFO  AddUserPage :97 - Getting success message Proxy element for: DefaultElementLocator 'By.xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']'
+2024-06-25 19:06:166 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (7961cff2809c42daca862db5079d7a47)] -> name: username]  data: Admin
+2024-06-25 19:06:261 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (7961cff2809c42daca862db5079d7a47)] -> name: password]  data: admin123
+2024-06-25 19:06:163 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (7961cff2809c42daca862db5079d7a47)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:481 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (7961cff2809c42daca862db5079d7a47)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:337 INFO  AddUserPage :97 - Getting success message Proxy element for: DefaultElementLocator 'By.xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']'
+2024-06-25 19:06:606 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (83264e8442a3dda7ae3d2c92aaa40fee)] -> name: username]  data: Admin
+2024-06-25 19:06:718 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (83264e8442a3dda7ae3d2c92aaa40fee)] -> name: password]  data: admin123
+2024-06-25 19:06:767 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (83264e8442a3dda7ae3d2c92aaa40fee)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:634 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (67d89a85e492ced82b87eb01c80154c6)] -> name: username]  data: Admin
+2024-06-25 19:06:727 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (67d89a85e492ced82b87eb01c80154c6)] -> name: password]  data: admin123
+2024-06-25 19:06:656 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (67d89a85e492ced82b87eb01c80154c6)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:461 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (67d89a85e492ced82b87eb01c80154c6)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:289 INFO  AddUserPage :97 - Getting success message [[ChromeDriver: chrome on windows (67d89a85e492ced82b87eb01c80154c6)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']]
+2024-06-25 19:06:287 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (863e8f38abc3bb85b358bc92285d5e08)] -> name: username]  data: Admin
+2024-06-25 19:06:373 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (863e8f38abc3bb85b358bc92285d5e08)] -> name: password]  data: admin123
+2024-06-25 19:06:194 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (863e8f38abc3bb85b358bc92285d5e08)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:426 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (863e8f38abc3bb85b358bc92285d5e08)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:957 INFO  AddUserPage :97 - Getting success message [[ChromeDriver: chrome on windows (863e8f38abc3bb85b358bc92285d5e08)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']]
+2024-06-25 19:06:832 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (1ad68ff5a1bc338e3fbe139d32403846)] -> name: username]  data: Admin
+2024-06-25 19:06:932 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (1ad68ff5a1bc338e3fbe139d32403846)] -> name: password]  data: admin123
+2024-06-25 19:06:723 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (1ad68ff5a1bc338e3fbe139d32403846)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:185 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (1ad68ff5a1bc338e3fbe139d32403846)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:548 INFO  AddUserPage :97 - Getting success message [[ChromeDriver: chrome on windows (1ad68ff5a1bc338e3fbe139d32403846)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']]
+2024-06-25 19:06:394 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (97eb0d76158f8a05fae1cecb7a66d262)] -> name: username]  data: Admin
+2024-06-25 19:06:480 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (97eb0d76158f8a05fae1cecb7a66d262)] -> name: password]  data: admin123
+2024-06-25 19:06:281 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (97eb0d76158f8a05fae1cecb7a66d262)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 19:06:353 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (97eb0d76158f8a05fae1cecb7a66d262)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 19:06:894 INFO  AddUserPage :97 - Getting success message [[ChromeDriver: chrome on windows (97eb0d76158f8a05fae1cecb7a66d262)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']]
+2024-06-25 20:06:925 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> name: username]  data: Admin
+2024-06-25 20:06:26 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> name: password]  data: admin123
+2024-06-25 20:06:848 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 20:06:549 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-25 20:06:680 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as Admin
+2024-06-25 20:06:880 INFO  AddUserPage :62 - Selecting User roles [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> xpath: //label[normalize-space()='User Role']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Admin
+2024-06-25 20:06:81 INFO  AddUserPage :68 - Entering the Employee Name [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> xpath: //label[normalize-space()='Employee Name']/parent::div/following-sibling::div//input] as Paul Collings
+2024-06-25 20:06:252 INFO  AddUserPage :79 - Selecting Status [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> xpath: //label[normalize-space()='Status']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Enable
+2024-06-25 20:06:316 INFO  AddUserPage :95 - Clicking on Search button [[ChromeDriver: chrome on windows (440ca976a5594e8e289e1d0a6d7a18d6)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 20:06:72 INFO  ViewSystemUsersPage :19 - Getting success message Proxy element for: DefaultElementLocator 'By.xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']'
+2024-06-25 20:06:319 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (389d9f5a60f9998a20f845947d07bb6f)] -> name: username]  data: Admin
+2024-06-25 20:06:438 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (389d9f5a60f9998a20f845947d07bb6f)] -> name: password]  data: admin123
+2024-06-25 20:06:505 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (389d9f5a60f9998a20f845947d07bb6f)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 20:06:92 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> name: username]  data: Admin
+2024-06-25 20:06:216 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> name: password]  data: admin123
+2024-06-25 20:06:288 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 20:06:619 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-25 20:06:771 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as Nina.Patel
+2024-06-25 20:06:968 INFO  AddUserPage :62 - Selecting User roles [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> xpath: //label[normalize-space()='User Role']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as ESS
+2024-06-25 20:06:151 INFO  AddUserPage :68 - Entering the Employee Name [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> xpath: //label[normalize-space()='Employee Name']/parent::div/following-sibling::div//input] as Nina Patel
+2024-06-25 20:06:330 INFO  AddUserPage :79 - Selecting Status [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> xpath: //label[normalize-space()='Status']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Enable
+2024-06-25 20:06:392 INFO  AddUserPage :95 - Clicking on Search button [[ChromeDriver: chrome on windows (8ff538a0a44bb993e743cd4c85afb0eb)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 20:06:689 INFO  ViewSystemUsersPage :19 - Getting success message Proxy element for: DefaultElementLocator 'By.xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']'
+2024-06-25 20:06:57 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (79cc4b824a90f948e3fa95924fd5be68)] -> name: username]  data: Admin
+2024-06-25 20:06:160 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (79cc4b824a90f948e3fa95924fd5be68)] -> name: password]  data: admin123
+2024-06-25 20:06:104 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (79cc4b824a90f948e3fa95924fd5be68)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 20:06:774 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (79cc4b824a90f948e3fa95924fd5be68)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-25 20:06:927 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (79cc4b824a90f948e3fa95924fd5be68)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as Odis.Adalwin
+2024-06-25 20:06:199 INFO  AddUserPage :62 - Selecting User roles [[ChromeDriver: chrome on windows (79cc4b824a90f948e3fa95924fd5be68)] -> xpath: //label[normalize-space()='User Role']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Admin
+2024-06-25 20:06:616 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (c13e6337a33d0d1bcdd91c3110cbfb38)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as Admin
+2024-06-25 20:06:280 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (594a10f4f4285cd6e4f0e9cebf3bc2b1)] -> name: username]  data: Admin
+2024-06-25 20:06:551 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (594a10f4f4285cd6e4f0e9cebf3bc2b1)] -> name: password]  data: admin123
+2024-06-25 20:06:461 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (594a10f4f4285cd6e4f0e9cebf3bc2b1)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 20:06:672 INFO  DashboardPage :31 - Getting the Dashboard page heading [[ChromeDriver: chrome on windows (594a10f4f4285cd6e4f0e9cebf3bc2b1)] -> xpath: //div[@class='oxd-topbar-header-title']//h6]
+2024-06-25 20:06:901 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (89f6827a7448c9f90690ad9cba83dd05)] -> name: username]  data: Admin
+2024-06-25 20:06:11 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (89f6827a7448c9f90690ad9cba83dd05)] -> name: password]  data: admin123
+2024-06-25 20:06:870 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (89f6827a7448c9f90690ad9cba83dd05)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 20:06:93 INFO  DashboardPage :36 - Checking the logo is displayed [[ChromeDriver: chrome on windows (89f6827a7448c9f90690ad9cba83dd05)] -> xpath: //div[@class='oxd-brand-banner']//img]
+2024-06-25 21:06:820 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (45d245e858165a3596b62b98ad2ec4c6)] -> name: username]  data: Admin
+2024-06-25 21:06:943 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (45d245e858165a3596b62b98ad2ec4c6)] -> name: password]  data: admin123
+2024-06-25 21:06:997 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (45d245e858165a3596b62b98ad2ec4c6)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:126 INFO  DashboardPage :42 - Clicking on user profile image [[ChromeDriver: chrome on windows (45d245e858165a3596b62b98ad2ec4c6)] -> xpath: //img[@class='oxd-userdropdown-img']]
+2024-06-25 21:06:39 INFO  DashboardPage :47 - Clicking on logout link [[ChromeDriver: chrome on windows (45d245e858165a3596b62b98ad2ec4c6)] -> link text: Logout]
+2024-06-25 21:06:218 INFO  LoginPage :66 - Getting Login Panel Text [[ChromeDriver: chrome on windows (45d245e858165a3596b62b98ad2ec4c6)] -> xpath: //h5[normalize-space()='Login']]
+2024-06-25 21:06:413 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (bc74ea64fff6aad405cfebbda6c04b46)] -> name: username]  data: 
+2024-06-25 21:06:507 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (bc74ea64fff6aad405cfebbda6c04b46)] -> name: password]  data: 
+2024-06-25 21:06:572 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (bc74ea64fff6aad405cfebbda6c04b46)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:635 INFO  LoginPage :74 - Getting Required message. [[ChromeDriver: chrome on windows (bc74ea64fff6aad405cfebbda6c04b46)] -> xpath: //span[@class='oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message']]
+2024-06-25 21:06:13 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (9347ae71709349802f2c556cf954d3c2)] -> name: username]  data: test123@gmail.com
+2024-06-25 21:06:94 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (9347ae71709349802f2c556cf954d3c2)] -> name: password]  data: 
+2024-06-25 21:06:176 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (9347ae71709349802f2c556cf954d3c2)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:238 INFO  LoginPage :74 - Getting Required message. [[ChromeDriver: chrome on windows (9347ae71709349802f2c556cf954d3c2)] -> xpath: //span[@class='oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message']]
+2024-06-25 21:06:307 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (eefa5ed078795bb9c9a29ee40ea4c78f)] -> name: username]  data: 
+2024-06-25 21:06:430 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (eefa5ed078795bb9c9a29ee40ea4c78f)] -> name: password]  data: test123
+2024-06-25 21:06:507 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (eefa5ed078795bb9c9a29ee40ea4c78f)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:551 INFO  LoginPage :74 - Getting Required message. [[ChromeDriver: chrome on windows (eefa5ed078795bb9c9a29ee40ea4c78f)] -> xpath: //span[@class='oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message']]
+2024-06-25 21:06:978 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (0f19b41277b9a42a02f093b1170f52cf)] -> name: username]  data: test123@gmail.com
+2024-06-25 21:06:75 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (0f19b41277b9a42a02f093b1170f52cf)] -> name: password]  data: test123
+2024-06-25 21:06:593 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (0f19b41277b9a42a02f093b1170f52cf)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:271 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (af63693cba1dd42eb852f8e4f76c5b77)] -> name: username]  data: 
+2024-06-25 21:06:348 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (af63693cba1dd42eb852f8e4f76c5b77)] -> name: password]  data: 
+2024-06-25 21:06:403 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (af63693cba1dd42eb852f8e4f76c5b77)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:454 INFO  LoginPage :74 - Getting Required message. [[ChromeDriver: chrome on windows (af63693cba1dd42eb852f8e4f76c5b77)] -> xpath: //span[@class='oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message']]
+2024-06-25 21:06:133 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (e8086287a1c884d921c29ff4278fb342)] -> name: username]  data: test123@gmail.com
+2024-06-25 21:06:201 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (e8086287a1c884d921c29ff4278fb342)] -> name: password]  data: 
+2024-06-25 21:06:308 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (e8086287a1c884d921c29ff4278fb342)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:359 INFO  LoginPage :74 - Getting Required message. [[ChromeDriver: chrome on windows (e8086287a1c884d921c29ff4278fb342)] -> xpath: //span[@class='oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message']]
+2024-06-25 21:06:186 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (e35b32d996cf7a161682d0fcdd7329d5)] -> name: username]  data: 
+2024-06-25 21:06:291 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (e35b32d996cf7a161682d0fcdd7329d5)] -> name: password]  data: test123
+2024-06-25 21:06:349 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (e35b32d996cf7a161682d0fcdd7329d5)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:392 INFO  LoginPage :74 - Getting Required message. [[ChromeDriver: chrome on windows (e35b32d996cf7a161682d0fcdd7329d5)] -> xpath: //span[@class='oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message']]
+2024-06-25 21:06:927 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (6a756dbf2764167d2788f75e0d52e672)] -> name: username]  data: test123@gmail.com
+2024-06-25 21:06:71 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (6a756dbf2764167d2788f75e0d52e672)] -> name: password]  data: test123
+2024-06-25 21:06:150 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (6a756dbf2764167d2788f75e0d52e672)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:399 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (9164dac738553d4648a607be6b4273f8)] -> name: username]  data: Admin
+2024-06-25 21:06:502 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (9164dac738553d4648a607be6b4273f8)] -> name: password]  data: admin123
+2024-06-25 21:06:559 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (9164dac738553d4648a607be6b4273f8)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:508 INFO  DashboardPage :31 - Getting the Dashboard page heading [[ChromeDriver: chrome on windows (9164dac738553d4648a607be6b4273f8)] -> xpath: //div[@class='oxd-topbar-header-title']//h6]
+2024-06-25 21:06:381 INFO  LoginPage :45 - Enter username [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> name: username]  data: Admin
+2024-06-25 21:06:468 INFO  LoginPage :50 - Enter password [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> name: password]  data: admin123
+2024-06-25 21:06:356 INFO  LoginPage :55 - Clicking on Login link [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //button[normalize-space()='Login']]
+2024-06-25 21:06:866 INFO  AddUserPage :67 - Getting system users text displayed [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //div[@class='oxd-table-filter-header-title']//h5]
+2024-06-25 21:06:243 INFO  AddUserPage :73 - Clicking on Add button [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //button[normalize-space()='Add']]
+2024-06-25 21:06:468 INFO  AddUserPage :55 - Getting Add User text [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //div[@class='orangehrm-card-container']/h6]
+2024-06-25 21:06:663 INFO  AddUserPage :62 - Selecting User roles [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //label[normalize-space()='User Role']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Admin
+2024-06-25 21:06:841 INFO  AddUserPage :68 - Entering the Employee Name [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //label[normalize-space()='Employee Name']/parent::div/following-sibling::div//input] as Joseph Evans
+2024-06-25 21:06:923 INFO  AddUserPage :73 - Entering the Username [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //label[normalize-space()='Username']/parent::div/following-sibling::div//input] as joseph
+2024-06-25 21:06:97 INFO  AddUserPage :79 - Selecting Status [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //label[normalize-space()='Status']/parent::div/following-sibling::div//div[@class='oxd-select-wrapper']] as Disable
+2024-06-25 21:06:192 INFO  AddUserPage :84 - Entering password [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //div[@class='oxd-grid-item oxd-grid-item--gutters user-password-cell']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@type='password']]
+2024-06-25 21:06:292 INFO  AddUserPage :89 - Entering password confirmation [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //div[@class='oxd-grid-item oxd-grid-item--gutters']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@type='password']]
+2024-06-25 21:06:341 INFO  AddUserPage :93 - Clicking on Save button[[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //button[normalize-space()='Save']]
+2024-06-25 21:06:749 INFO  AddUserPage :97 - Getting success message [[ChromeDriver: chrome on windows (e2ec5e5edbc598e45280e5173225c7b0)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']]
+2024-06-26 02:06:348 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 02:06:642 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 02:06:532 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 02:06:570 INFO  TopMenuPage :51 - getting page heading text Desktops
+2024-06-26 02:06:675 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 02:06:234 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 02:06:269 INFO  TopMenuPage :51 - getting page heading text Desktops
+2024-06-26 02:06:390 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Laptops & Notebooks
+2024-06-26 02:06:129 INFO  TopMenuPage :45 - Clicked on Show AllLaptops & Notebooks
+2024-06-26 02:06:155 INFO  TopMenuPage :51 - getting page heading text Laptops & Notebooks
+2024-06-26 02:06:146 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Components
+2024-06-26 02:06:792 INFO  TopMenuPage :45 - Clicked on Show AllComponents
+2024-06-26 02:06:816 INFO  TopMenuPage :51 - getting page heading text Components
+2024-06-26 02:06:401 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 02:06:428 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 02:06:598 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 02:06:225 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 02:06:724 INFO  DesktopPage :47 - Selecting the filter as Name (Z - A)
+2024-06-26 02:06:856 INFO  DesktopPage :74 - Getting list of products after applying filter
+2024-06-26 02:06:967 INFO  DesktopPage :62 - Getting list of products before filter
+2024-06-26 03:06:138 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (29b9aebfc6b44031f3a58bec00dd722d)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 03:06:946 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (9f337ecfdb32f0daa9c8bdc16a58b690)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:177 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (43e2b9be680a344a1cb8f225a96ad9b7)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:920 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (43e2b9be680a344a1cb8f225a96ad9b7)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:93 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:49 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:883 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:552 INFO  DesktopPage :92 - Click on HTC Touch HD
+2024-06-26 04:06:586 INFO  DesktopPage :118 - Getting the product name heading as HTC Touch HD
+2024-06-26 04:06:687 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:740 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (43e2b9be680a344a1cb8f225a96ad9b7)] -> id: button-cart]
+2024-06-26 04:06:431 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (43e2b9be680a344a1cb8f225a96ad9b7)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:736 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (0d1f6a89749475423f1201a98fc06ecf)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:933 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (0d1f6a89749475423f1201a98fc06ecf)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:112 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:572 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:257 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:677 INFO  DesktopPage :92 - Click on iPhone
+2024-06-26 04:06:702 INFO  DesktopPage :118 - Getting the product name heading as iPhone
+2024-06-26 04:06:812 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:862 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (0d1f6a89749475423f1201a98fc06ecf)] -> id: button-cart]
+2024-06-26 04:06:385 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (0d1f6a89749475423f1201a98fc06ecf)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:936 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (9675bc790b5f34b1142a7a5d3ac6947a)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:91 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (9675bc790b5f34b1142a7a5d3ac6947a)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:269 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:33 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:663 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:451 INFO  DesktopPage :92 - Click on iPod Classic
+2024-06-26 04:06:475 INFO  DesktopPage :118 - Getting the product name heading as iPod Classic
+2024-06-26 04:06:568 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:619 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (9675bc790b5f34b1142a7a5d3ac6947a)] -> id: button-cart]
+2024-06-26 04:06:648 INFO  DesktopPage :107 - Get Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='alert alert-success alert-dismissible']'
+2024-06-26 04:06:787 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (d1225527549f4a8d10a2d79300866327)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:86 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (d1225527549f4a8d10a2d79300866327)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:263 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:598 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:108 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:409 INFO  DesktopPage :92 - Click on MacBook
+2024-06-26 04:06:431 INFO  DesktopPage :118 - Getting the product name heading as MacBook
+2024-06-26 04:06:525 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:578 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (d1225527549f4a8d10a2d79300866327)] -> id: button-cart]
+2024-06-26 04:06:198 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (d1225527549f4a8d10a2d79300866327)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:87 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (7b6627236e986c8372305b136bff8d75)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:112 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (7b6627236e986c8372305b136bff8d75)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:285 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:738 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:457 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:927 INFO  DesktopPage :92 - Click on MacBook Air
+2024-06-26 04:06:958 INFO  DesktopPage :118 - Getting the product name heading as MacBook Air
+2024-06-26 04:06:57 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:116 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (7b6627236e986c8372305b136bff8d75)] -> id: button-cart]
+2024-06-26 04:06:783 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (7b6627236e986c8372305b136bff8d75)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:140 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (98bdeda2e830ca866fede6f2c7de1c16)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:437 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (98bdeda2e830ca866fede6f2c7de1c16)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:612 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:945 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:616 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:533 INFO  DesktopPage :92 - Click on Sony VAIO
+2024-06-26 04:06:554 INFO  DesktopPage :118 - Getting the product name heading as Sony VAIO
+2024-06-26 04:06:651 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:703 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (98bdeda2e830ca866fede6f2c7de1c16)] -> id: button-cart]
+2024-06-26 04:06:259 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (98bdeda2e830ca866fede6f2c7de1c16)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:250 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (355bb49bac93995c4317ed9e0a928755)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:118 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (355bb49bac93995c4317ed9e0a928755)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:304 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:360 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:897 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:189 INFO  DesktopPage :92 - Click on HTC Touch HD
+2024-06-26 04:06:212 INFO  DesktopPage :118 - Getting the product name heading as HTC Touch HD
+2024-06-26 04:06:316 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:368 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (355bb49bac93995c4317ed9e0a928755)] -> id: button-cart]
+2024-06-26 04:06:710 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (355bb49bac93995c4317ed9e0a928755)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:280 INFO  DesktopPage :113 - Click on [[ChromeDriver: chrome on windows (355bb49bac93995c4317ed9e0a928755)] -> xpath: //a[normalize-space()='shopping cart']]
+2024-06-26 04:06:304 INFO  CartPage :47 - Get [[ChromeDriver: chrome on windows (355bb49bac93995c4317ed9e0a928755)] -> xpath: //h1[contains(text(),'Shopping Cart')]]
+2024-06-26 04:06:590 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (2baac905597ccab662f0b6feb2003c85)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:465 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (2baac905597ccab662f0b6feb2003c85)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:642 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:694 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:204 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:520 INFO  DesktopPage :92 - Click on iPhone
+2024-06-26 04:06:546 INFO  DesktopPage :118 - Getting the product name heading as iPhone
+2024-06-26 04:06:650 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:703 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (2baac905597ccab662f0b6feb2003c85)] -> id: button-cart]
+2024-06-26 04:06:42 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (2baac905597ccab662f0b6feb2003c85)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:695 INFO  DesktopPage :113 - Click on [[ChromeDriver: chrome on windows (2baac905597ccab662f0b6feb2003c85)] -> xpath: //a[normalize-space()='shopping cart']]
+2024-06-26 04:06:717 INFO  CartPage :47 - Get [[ChromeDriver: chrome on windows (2baac905597ccab662f0b6feb2003c85)] -> xpath: //h1[contains(text(),'Shopping Cart')]]
+2024-06-26 04:06:916 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (86ca7103353a45d28b86f13e890d0fae)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:828 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (86ca7103353a45d28b86f13e890d0fae)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:07 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:37 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:567 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:890 INFO  DesktopPage :92 - Click on iPod Classic
+2024-06-26 04:06:918 INFO  DesktopPage :118 - Getting the product name heading as iPod Classic
+2024-06-26 04:06:24 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:76 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (86ca7103353a45d28b86f13e890d0fae)] -> id: button-cart]
+2024-06-26 04:06:438 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (86ca7103353a45d28b86f13e890d0fae)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:11 INFO  DesktopPage :113 - Click on [[ChromeDriver: chrome on windows (86ca7103353a45d28b86f13e890d0fae)] -> xpath: //a[normalize-space()='shopping cart']]
+2024-06-26 04:06:27 INFO  CartPage :47 - Get [[ChromeDriver: chrome on windows (86ca7103353a45d28b86f13e890d0fae)] -> xpath: //h1[contains(text(),'Shopping Cart')]]
+2024-06-26 04:06:199 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (e82ba2cfa8e78e7bc87c8f2a6d09dd16)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:101 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (e82ba2cfa8e78e7bc87c8f2a6d09dd16)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:279 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:317 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:820 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:102 INFO  DesktopPage :92 - Click on MacBook
+2024-06-26 04:06:126 INFO  DesktopPage :118 - Getting the product name heading as MacBook
+2024-06-26 04:06:222 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:275 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (e82ba2cfa8e78e7bc87c8f2a6d09dd16)] -> id: button-cart]
+2024-06-26 04:06:620 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (e82ba2cfa8e78e7bc87c8f2a6d09dd16)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:218 INFO  DesktopPage :113 - Click on [[ChromeDriver: chrome on windows (e82ba2cfa8e78e7bc87c8f2a6d09dd16)] -> xpath: //a[normalize-space()='shopping cart']]
+2024-06-26 04:06:237 INFO  CartPage :47 - Get [[ChromeDriver: chrome on windows (e82ba2cfa8e78e7bc87c8f2a6d09dd16)] -> xpath: //h1[contains(text(),'Shopping Cart')]]
+2024-06-26 04:06:360 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (0690624d1cbb6cc3adeb27e8a7ec011e)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:173 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (0690624d1cbb6cc3adeb27e8a7ec011e)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:340 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:380 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:882 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:136 INFO  DesktopPage :92 - Click on MacBook Air
+2024-06-26 04:06:159 INFO  DesktopPage :118 - Getting the product name heading as MacBook Air
+2024-06-26 04:06:253 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:309 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (0690624d1cbb6cc3adeb27e8a7ec011e)] -> id: button-cart]
+2024-06-26 04:06:683 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (0690624d1cbb6cc3adeb27e8a7ec011e)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:232 INFO  DesktopPage :113 - Click on [[ChromeDriver: chrome on windows (0690624d1cbb6cc3adeb27e8a7ec011e)] -> xpath: //a[normalize-space()='shopping cart']]
+2024-06-26 04:06:252 INFO  CartPage :47 - Get [[ChromeDriver: chrome on windows (0690624d1cbb6cc3adeb27e8a7ec011e)] -> xpath: //h1[contains(text(),'Shopping Cart')]]
+2024-06-26 04:06:561 INFO  HomePage :26 - Click on [[ChromeDriver: chrome on windows (5d68d31def188eb6f71d4a95afa602f7)] -> xpath: //span[normalize-space()='Currency']]
+2024-06-26 04:06:435 INFO  HomePage :32 - Click on [[ChromeDriver: chrome on windows (5d68d31def188eb6f71d4a95afa602f7)] -> xpath: //ul[@class='dropdown-menu']//button[normalize-space()='£Pound Sterling']]
+2024-06-26 04:06:595 INFO  TopMenuPage :35 - Mouse hover to top menu link and clicked Desktops
+2024-06-26 04:06:617 INFO  TopMenuPage :45 - Clicked on Show AllDesktops
+2024-06-26 04:06:101 INFO  DesktopPage :52 - Selecting the filter as Name (Z - A)
+2024-06-26 04:06:98 INFO  DesktopPage :92 - Click on Sony VAIO
+2024-06-26 04:06:123 INFO  DesktopPage :118 - Getting the product name heading as Sony VAIO
+2024-06-26 04:06:218 INFO  DesktopPage :98 - update quantity to 1
+2024-06-26 04:06:267 INFO  DesktopPage :103 - Click on [[ChromeDriver: chrome on windows (5d68d31def188eb6f71d4a95afa602f7)] -> id: button-cart]
+2024-06-26 04:06:611 INFO  DesktopPage :107 - Get [[ChromeDriver: chrome on windows (5d68d31def188eb6f71d4a95afa602f7)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-06-26 04:06:176 INFO  DesktopPage :113 - Click on [[ChromeDriver: chrome on windows (5d68d31def188eb6f71d4a95afa602f7)] -> xpath: //a[normalize-space()='shopping cart']]
+2024-06-26 04:06:191 INFO  CartPage :47 - Get [[ChromeDriver: chrome on windows (5d68d31def188eb6f71d4a95afa602f7)] -> xpath: //h1[contains(text(),'Shopping Cart')]]
